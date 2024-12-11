@@ -1,5 +1,5 @@
 import './css/style.css';
 
-import './js/app';
+import './js/health';
 
-// TODO: write your code in app.js
+// TODO: write your code in health.js
